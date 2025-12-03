@@ -29,9 +29,7 @@
             </div>
             
             `)
-            //console.log('img',img)//
-            //img.src=data.image
-            console.log(data)
+            
 
         } catch (error) {
 
