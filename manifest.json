@@ -1,0 +1,24 @@
+{
+  "name": "foodApp",
+  "theme_color": "#7787c6",
+  "background_color": "#8fe29b",
+  "short_name": "foodApp",
+  "display": "fullscreen",
+  "orientation": "natural",
+  "start_url": "/foodApp",
+  "scope": "/foodApp",
+  "dir": "ltr",
+  "description": "foodApp for testing purpose",
+  "categories": [
+    "entertainment",
+    "food",
+    "photo"
+  ],
+  "screenshots": [
+    {
+      "src": "LargeTile.scale-200.png",
+      "type": "image/png",
+      "sizes": "620x620"
+    }
+  ]
+}
